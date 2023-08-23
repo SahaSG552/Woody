@@ -1,5 +1,5 @@
 #  <div align="center"> 🦗 Sudden CNC Post 🦗 </div>  
-###  <div align="left">3-Axis CNC Postprocessor in Grasshopper3D
+###  <div align="left">3-Axis Milling CNC Postprocessor in Grasshopper3D
 ###  Rhinoceros curves to G-Code</div>  
 ###  <div align="left">*Profiles, pockets, engravings, re-machining, drilling operations. I use it mostly for furniture facade millings and drillings*</div>
 

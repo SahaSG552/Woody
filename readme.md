@@ -23,24 +23,23 @@ You can combine curves and nest them within each other.
 
 ## Operations
 - General<br>
-    Inclined plunge cutting<br>
+    Inclined plunge cutting (engage in material under the certain angle)<br>
     Conventional/climb/mixed cutting direction<br>
-    Optional nested geometry detection<br>
+    Optional nested geometry detection (geometry in geometry)<br>
     Circular interpolation (G2/G3 codes)<br>
     Different types of sorting including sorting by selection<br>
-
 
 - Profile machining operation<br>
     Inside, outside, along profile<br>
 
 - Pocketing operation<br>
-    Effective clean of leftovers<br>
+    Effective cleaning of leftovers<br>
 
 - Re-Machining<br>
-    Cleaning corners after pocketing operation using smaller bit diameter<br>
+    Cleaning corners after pocketing operation using smaller diameter bit<br>
 
 - V-Carving operation<br>
-    Corner sharpening movement<br>
+    Corner sharpening movement using cone bit<br>
 
 - Drilling operation<br>
 

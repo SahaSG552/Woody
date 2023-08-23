@@ -7,7 +7,7 @@
 <img src="Images\CNC2.gif" alt="Sudden CNC Post PREVIEW"  width="80%"/>
 </div> 
 
-*Testing trajectories in NC Corrector ☢️
+*Testing trajectories in [NC Corrector](http://www.nc-corrector.inf.ua/index_EN.htm)☢️
 <br>
 
 > **⚠️Warning**<br>

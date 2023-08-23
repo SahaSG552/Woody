@@ -10,11 +10,17 @@
 *Testing trajectories in NC Corrector ☢️
 <br>
 
-## Demo
+> **⚠️Warning**<br>
+> This is a work-in-progress and not the finished product.<br>
+><br>
+> Feel free to leave suggestions or report bugs in<br>
+> the [issues](https://github.com/SahaSG552/GH-Sudden-CNC-Post/issues) section.<br>
 
+# Demo
 <div align="center">
 <img src="Images\CNC1.gif" alt="Sudden CNC Post PREVIEW"  width="100%"/>
 </div> 
+
 
 First of all you need to choose cutting material from database, or from referenced geometry and set LCS (Local Coordinate System). In this demo i chose 19mm MDF, rectangled shape from curve.<br>
 You can select multiple pieces of material and place them wherever you need, machining will be carried out relative to the established initial coordinate system.<br>
@@ -22,7 +28,7 @@ Then you need to create geometry in specially named layer. Operation will be cre
 In this example layer named D10_19MM_SN means that cutting instrument would be D10 (cylinder 10mm diameter bit), cutting depth will be 19MM and SN means that bit will be cutting outside profile.
 You can combine curves and nest them within each other.
 
-## Operations
+# Operations
 - General<br>
     Inclined plunge cutting (engage in material under the certain angle)<br>
     Conventional/climb/mixed cutting direction<br>
@@ -49,7 +55,7 @@ You can combine curves and nest them within each other.
 <div align="left">
 <img src="Images\CNC1.jpg" alt="Plugins Used"  width="100%"/>
 </div> 
-Several instruments, each instrument could do several operations (one layer - one operation)
+In this project using several instruments, each instrument could do several operations (one layer - one operation)
 
 ## Testing in NC Corrector
  <div align="left">

@@ -4,7 +4,7 @@
 ###  <div align="left">*Profiles, pockets, engravings, re-machining, drilling operations. I use it mostly for furniture facade millings and drillings*</div>
 
 <div align="left">
-<img src="images\CNC2.gif" alt="Sudden CNC Post"  width="80%"/>
+<img src="blob\main\images\CNC2.gif" alt="Sudden CNC Post"  width="80%"/>
 </div> 
 
 *Testing trajectories in NC Corrector ☢️

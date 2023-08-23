@@ -17,7 +17,7 @@
 </div> 
 First of all you need to choose cutting material from database, or from referenced geometry and set LCS (Local Coordinate System). In this demo i chose 19mm MDF, rectangled shape from curve.<br>
 You can select multiple pieces of material and place them wherever you need, machining will be carried out relative to the established initial coordinate system.<br>
-Then you need to create geometry in specially named layer. Operation will be created according layer name. There are some layer naming rules, i didn't implement documentation yet 😏<br>
+Then you need to create geometry in specially named layer. Operation will be created according layer name. There are some layer naming rules, but i didn't implement documentation yet 😏 Wish it will be soon<br>
 In this example layer named D10_19MM_SN means that cutting instrument would be D10 (cylinder 10mm diameter bit), cutting depth will be 19MM and SN means that bit will be cutting outside profile.
 You can combine curves and nest them within each other.
 

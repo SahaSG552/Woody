@@ -3,8 +3,9 @@
 ###  Rhinoceros curves to G-Code</div>  
 ###  <div align="left">*Profiles, pockets, engravings, re-machining, drilling operations. I use it mostly for furniture facade millings and drillings*</div>
 
-<a href="[https://www.youtube.com/watch?v=JxVLw4sx4c4&list=PLpTK_OZMfm1qI5HoSyZqZ8NEA13gcOjpX](https://www.youtube.com/watch?v=JxVLw4sx4c4&list=PLpTK_OZMfm1qI5HoSyZqZ8NEA13gcOjpX)" target="_blank">
- <img src="https://100tails.ru/wp-content/uploads/2022/06/red-youtube-logo-png-xl.png" alt="Workflow" width="50"/>
+
+<a href="https://www.youtube.com/watch?v=JxVLw4sx4c4&list=PLpTK_OZMfm1qI5HoSyZqZ8NEA13gcOjpX">
+  <img src="https://100tails.ru/wp-content/uploads/2022/06/red-youtube-logo-png-xl.png" alt="YouTube playlist" width="30">
 </a>
 
 <div align="left">

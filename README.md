@@ -79,4 +79,9 @@ This image is needed for the machine operator to give them a task. The image sho
 |<img src="Images/CNC4.jpg" alt="Plugins Used"  width="50%"/>
 </div> 
 
+- NEW! Some sort of simulation using slider
+ <div align="left">
+|<img src="https://global.discourse-cdn.com/mcneel/uploads/default/original/4X/2/5/7/2572ccaf2bdaa92afc846970217339d37dc68439.gif" alt="Plugins Used"  width="100%"/>
+</div> 
+
 ## In progress...

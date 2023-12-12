@@ -1,4 +1,4 @@
-#  <div align="center"> 🦗 Sudden CNC Post 🦗 </div>  
+#  <div align="center"> 🦗 Woody 🦗 </div>  
 ###  <div align="left">3-Axis Milling CNC Postprocessor in Grasshopper3D
 ###  Rhinoceros curves to G-Code</div>  
 ###  <div align="left">*Profiles, pockets, engravings, re-machining, drilling operations. I use it mostly for furniture facade millings and drillings*</div>
@@ -9,7 +9,7 @@
 </a>
 
 <div align="left">
-<img src="Images\CNC2.gif" alt="Sudden CNC Post PREVIEW"  width="80%"/>
+<img src="Images\CNC2.gif" alt="Woody PREVIEW"  width="80%"/>
 </div> 
 
 *Testing trajectories in [NC Corrector](http://www.nc-corrector.inf.ua/index_EN.htm)☢️
@@ -19,11 +19,11 @@
 > This is a work-in-progress and not the finished product.<br>
 ><br>
 > Feel free to leave suggestions or report bugs in<br>
-> the [issues](https://github.com/SahaSG552/GH-Sudden-CNC-Post/issues) section.<br>
+> the [issues](https://github.com/SahaSG552/Woody/issues) section.<br>
 
 # Demo
 <div align="center">
-<img src="Images\CNC1.gif" alt="Sudden CNC Post PREVIEW"  width="100%"/>
+<img src="Images\CNC1.gif" alt="Woody PREVIEW"  width="100%"/>
 </div> 
 
 
